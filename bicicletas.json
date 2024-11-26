@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "marca": "Olmo",
+      "modelo": "Regal",
+      "rodado": 29,
+      "anio": 2022,
+      "color": "roja",
+      "peso": 16,
+      "tipo": "Montañera",
+      "precio": 120000,
+      "vendida": false
+    },
+    {
+      "id": 2,
+      "marca": "Fierce",
+      "modelo": "FM18SI29AM211",
+      "rodado": 29,
+      "anio": 2021,
+      "color": "negra",
+      "peso": 15,
+      "tipo": "Paseo",
+      "precio": 90000,
+      "vendida": true
+    },
+    {
+      "id": 3,
+      "marca": "Shifter",
+      "modelo": "Regal",
+      "rodado": 28,
+      "anio": 2020,
+      "color": "gris",
+      "peso": 17,
+      "tipo": "Montañera",
+      "precio": 110000,
+      "vendida": false
+    },
+    {
+      "id": 4,
+      "marca": "Trek",
+      "modelo": "X-Caliber",
+      "rodado": 29,
+      "anio": 2022,
+      "color": "azul",
+      "peso": 16,
+      "tipo": "Montañera",
+      "precio": 130000,
+      "vendida": false
+    },
+    {
+      "id": 5,
+      "marca": "Giant",
+      "modelo": "TCX",
+      "rodado": 28,
+      "anio": 2021,
+      "color": "negra",
+      "peso": 17,
+      "tipo": "Paseo",
+      "precio": 100000,
+      "vendida": true
+    },
+    {
+      "id": 6,
+      "marca": "Specialized",
+      "modelo": "Rockhopper",
+      "rodado": 29,
+      "anio": 2022,
+      "color": "roja",
+      "peso": 16,
+      "tipo": "Montañera",
+      "precio": 140000,
+      "vendida": false
+    },
+    {
+      "id": 7,
+      "marca": "Cannondale",
+      "modelo": "Trail",
+      "rodado": 28,
+      "anio": 2021,
+      "color": "gris",
+      "peso": 17,
+      "tipo": "Paseo",
+      "precio": 120000,
+      "vendida": true
+    },
+    {
+      "id": 8,
+      "marca": "GT",
+      "modelo": "Avalanche",
+      "rodado": 29,
+      "anio": 2022,
+      "color": "azul",
+      "peso": 16,
+      "tipo": "Montañera",
+      "precio": 150000,
+      "vendida": false
+    },
+    {
+      "id": 9,
+      "marca": "Mongoose",
+      "modelo": "Status",
+      "rodado": 28,
+      "anio": 2021,
+      "color": "negra",
+      "peso": 17,
+      "tipo": "Paseo",
+      "precio": 110000,
+      "vendida": true
+    },
+    {
+      "id": 10,
+      "marca": "Diamondback",
+      "modelo": "Response",
+      "rodado": 29,
+      "anio": 2022,
+      "color": "roja",
+      "peso": 16,
+      "tipo": "Montañera",
+      "precio": 160000,
+      "vendida": false
+    }
+]
+  
